@@ -1,6 +1,6 @@
 # Social Network Web Application API
 
-This is an API for a social network web application where users can share their thoughts, react to their friends' thoughts, and create a friends list. The API uses Express.js for routing, a MongoDB database, Mongoose for data modeling, and the native JavaScript Date object to format timestamps. The seed data is created using Insomnia.
+This API serves as the backend for a social network web application that enables users to express their thoughts, react to their friends' thoughts, and manage their friends list. The API leverages Express.js for handling routing, a MongoDB database for data storage, Mongoose for data modeling, and the JavaScript Date object to properly format timestamps. To initialize the database with initial data, the seed data is generated using Insomnia..
 
 # Installation
 
